@@ -141,6 +141,7 @@
     </BootstrapperPackage>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Screenshot.png" />
     <Content Include="UnixTimestampScreenSaver.ico" />
   </ItemGroup>
   <ItemGroup>
